@@ -38,4 +38,4 @@ The build.sh script helps the user build the project using maven. The run.sh scr
 
 [4]  J. M. Geusebroek, G. J. Burghouts, and A. W. M. Smeulders. The amsterdam library of object images. International Journal of Computer Vision, 61(1):103–112, 2005.
 
-This work is supported by ANR France relance (https://anr.fr/fr/lanr/instruments-de-financement/plan-de-relance/), Devoteam (https://www.devoteam.com/) and AMIES (6 https://www.agence-maths-entreprises.fr/public/pages/index.html).
+This work is supported by (ANR France relance) [https://anr.fr/fr/lanr/instruments-de-financement/plan-de-relance/], Devoteam (https://www.devoteam.com/) and AMIES (6 https://www.agence-maths-entreprises.fr/public/pages/index.html).
