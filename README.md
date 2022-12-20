@@ -30,10 +30,12 @@ The build.sh script helps the user build the project using maven. The run.sh scr
 
 ### References
 
-[1] Reda Khoufache, Mohamed Djallel Dilmi, Hanene Azzag, Etienne Goffinet, and Mustapha LEBBAH. Emerging properties from Bayesian Non-Parametric for multiple clustering: Application for multi-view image dataset". In workshop DLC@ICDM 2022, Nov. 28 – Dec. 1, Orlando
+[1] Reda Khoufache, Mohamed Djallel Dilmi, Hanene Azzag, Etienne Goffinet, and Mustapha Lebbah. Emerging properties from Bayesian Non-Parametric for multiple clustering: Application for multi-view image dataset". In workshop DLC@ICDM 2022, Nov. 28 – Dec. 1, Orlando
 
 [2] A. Dosovitskiy, L. Beyer, A. Kolesnikov, D. Weissenborn, X. Zhai,T. Unterthiner, M. Dehghani, M. Minderer, G. Heigold, S. Gelly, J. Uszkoreit, and N. Houlsby. An image is worth 16x16 words: Transformers for image recognition at scale, 2020.
 
 [3] Etienne Goffinet, Mustapha Lebbah, Hanane Azzag, Giraldi Loïc, Anthony Coutant. Functional Non-Parametric Latent Block Model: a Multivariate Time Series Clustering Approach for Autonomous Driving Validation. Computational Statistics and Data Analysis. 2022. https://doi.org/10.1016/j.csda.2022.107565.
 
 [4]  J. M. Geusebroek, G. J. Burghouts, and A. W. M. Smeulders. The amsterdam library of object images. International Journal of Computer Vision, 61(1):103–112, 2005.
+
+This work is supported by ANR France relance (https://anr.fr/fr/lanr/instruments-de-financement/plan-de-relance/), Devoteam (https://www.devoteam.com/) and AMIES (6 https://www.agence-maths-entreprises.fr/public/pages/index.html).
