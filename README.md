@@ -45,7 +45,6 @@ N.B. If you use this code, please cite the following paper:
 ```
 @inproceedings{khoufache22,
 author = {Reda, Khoufache, and Mohamed Djallel, Dilmi and Azzag, Hanene and Etienne Goffinet and Lebbah, Mustapha},
-month = {10},
 title = {Emerging properties from Bayesian Non-Parametric for multiple clustering: Application for multi-view image dataset},
 booktitle = {In workshop DLC@ICDM 2022, Nov. 28 – Dec. 1, Orlando, USA},
 year = {2022}
