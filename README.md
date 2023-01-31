@@ -43,12 +43,12 @@ This work is supported by [ANR France relance](https://anr.fr/fr/lanr/instrument
 N.B. If you use this code, please cite the following paper: 
 
 ```
-@article{khoufache22,
+@inproceedings{khoufache22,
 author = {Reda, Khoufache, and Mohamed Djallel, Dilmi and Azzag, Hanene and Etienne Goffinet and Lebbah, Mustapha},
 year = {2022},
 month = {10},
 title = {Emerging properties from Bayesian Non-Parametric for multiple clustering: Application for multi-view image dataset},
-journal = {ICDM 2022, ORLANDO USA},
+booktitle = {ICDM 2022, ORLANDO USA},
 }
 
 ```
