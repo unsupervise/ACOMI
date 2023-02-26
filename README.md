@@ -44,7 +44,6 @@ N.B. If you use this code, please cite the following paper:
 
 ```
 @INPROCEEDINGS{10031070,
-
   author={Khoufache, Reda and Dilmi, Mohamed Djallel and Azzag, Hanene and Gofinnet, Etienne and Lebbah, Mustapha},
   booktitle={2022 IEEE International Conference on Data Mining Workshops (ICDMW)}, 
   title={Emerging properties from Bayesian Non-Parametric for multiple clustering: Application for multi-view image dataset}, 
